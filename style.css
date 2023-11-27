@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    display: flex;
+    justify-content: center;
+}
+.wrap {
+    width: 80rem;
+    height: auto;
+    margin-top: 50px;
+}
+.contenedor{
+    display: flex;
+    justify-content: center;
+}
+h2{
+    color: #3B06D2;
+    margin-bottom: 30px;
+    margin-top: 100px;
+
+}
+.title{
+    font-size: 50px;
+}
+.contenedor_image {
+    display: flex;
+    margin-top: 30px;
+    width: 80rem;
+    
+    
+}
+.imagen_1{
+    padding-right: 20px;
+}
+.listas {
+    width: 200px;
+    height: 120px;
+    padding-top: 20px;
+    font-size: 20px;
+    font: weight 200px;
+    
+}
+.color_rojo{
+    color: #FF0000;   
+}
+.color_azul{
+    color: blue;
+}
+.color_mostaza{
+    color: burlywood;
+}
+.color_tuquesa{
+    color: aqua;
+}
